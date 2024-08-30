@@ -6,6 +6,6 @@
       "@/*": ["src/*"]
     }
   },
-  "include": ["."],
+  "include": [".", "../../app/src/App.vue"],
   "exclude": ["dist", "build", "node_modules"]
 }
